@@ -4,8 +4,8 @@ import React, {Component} from 'react'
 class Thankyou extends Component {
     render() {
         return (
-            <div>
-                <h1>Thank You!!</h1>
+            <div id='container'>
+                <h1 id='form'>Thank You!!</h1>
             </div>
         )
     }
